@@ -1,6 +1,7 @@
+opencv-python-headless
 streamlit
 cvzone
 streamlit-webrtc
 numpy
 mediapipe
-opencv-python-headless
+
