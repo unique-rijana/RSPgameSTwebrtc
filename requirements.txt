@@ -4,4 +4,4 @@ cvzone
 streamlit-webrtc
 numpy
 mediapipe
-libGL.so.1
+
